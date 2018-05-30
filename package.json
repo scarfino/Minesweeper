@@ -1,0 +1,26 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scarfino/Minesweeper.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "@scarfino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scarfino/Minesweeper/issues"
+  },
+  "homepage": "https://github.com/scarfino/Minesweeper#readme"
+}
